@@ -37,12 +37,6 @@ Based on our analysis and the predictive model, we provided valuable recommendat
 6. Prioritize acquiring vehicles from top-performing makes, as they tend to be more reliable regardless of their age.
 
 
-<h2>Usage</h2>
-
-You can explore the code and run the models using the provided Jupyter Notebook or Python script.
-
-Feel free to clone this repository and use it as a reference for similar prediction projects.
-
 <h2>Libraries Used</h2>
 
 - tidyverse: For data manipulation and visualization.
