@@ -8,10 +8,9 @@ In this project, we conduct a comprehensive analysis of vehicle auction data to 
 
 In this project, we leveraged data from a Carvana's kaggle competition - Dont get Kick'd to predict the likelihood of a a car being a bad buy. The key steps undertaken include:
 
-- Data preprocessing and exploration.
-- Feature engineering, encoding, and selection using pandas and numpy in Python.
-- Deployment of machine learning algorithms, such as Decision Tree, Logistic Regression, Random Forest, and K-Nearest Neighbors (KNN).
-- Visualization of results using libraries like Seaborn and Plotly.
+- Data Processing: Loading and preprocessing the dataset, with exploratory analysis to understand its characteristics
+- Visualizations: Creating visual insights into car makes, sizes, and origins using ggplot2.
+- Model Deployment: Predicting car buy quality with logistic regression and evaluating model accuracy
 
 <h2>Project Walkthrough</h2>
  <br />
