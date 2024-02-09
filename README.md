@@ -6,7 +6,7 @@ In this project, we conduct a comprehensive analysis of vehicle auction data to 
 
 <h2>Project Overview</h2>
 
-In this project, we leveraged data from a delivery application to predict the likelihood of a restaurant's success. The key steps undertaken include:
+In this project, we leveraged data from a Carvana's kaggle competition - Dont get Kick'd to predict the likelihood of a a car being a bad buy. The key steps undertaken include:
 
 - Data preprocessing and exploration.
 - Feature engineering, encoding, and selection using pandas and numpy in Python.
