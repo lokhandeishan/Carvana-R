@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-In this project, we conducted a comprehensive analysis of vehicle auction data to assess the viability of car purchases. The primary goal was to predict whether a car is a "bad buy" by examining various factors such as vehicle age, mileage, acquisition cost, make, and origin. We used statistical analysis, correlation analysis, and regression modeling techniques to achieve our objectives.
+In this project, we conduct a comprehensive analysis of vehicle auction data to assess the viability of car purchases. The primary goal was to predict whether a car is a "bad buy" by examining various factors such as vehicle age, mileage, acquisition cost, make, and origin. We used statistical analysis, correlation analysis, and regression modeling techniques to achieve our objectives.
 
 <h2>Project Overview</h2>
 
